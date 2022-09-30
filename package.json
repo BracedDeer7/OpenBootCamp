@@ -1,0 +1,13 @@
+{
+  "name": "opencamp",
+  "version": "1.0.0",
+  "description": "prueba 1 javascript git",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexcas",
+  "license": "ISC"
+}
